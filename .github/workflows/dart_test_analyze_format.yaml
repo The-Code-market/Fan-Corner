@@ -2,8 +2,7 @@ name: countinues_delivery_release_apk
 on:
   push:
     tags:
-     - v*
-
+     - v*git a
 jobs:
   build:
     name: Build apk
