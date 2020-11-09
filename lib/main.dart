@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
               color: Colors.black,
             ),
             bodyText2: TextStyle(
-              color: Colors.black,
+              color: Colors.brown,
             ),
             headline1: TextStyle(
               fontSize: 20,
